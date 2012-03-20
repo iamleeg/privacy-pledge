@@ -20,3 +20,6 @@ To Sign the _App Makers Privacy Pledge_ fork this repo and add the following lin
 
 Commit and open a pull request.
 
+Note: Once you've forked the file, you don't need to download it to your computer, you can edit the file directly from the
+browser, commit it and raise a pull request.
+
