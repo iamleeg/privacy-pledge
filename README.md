@@ -18,5 +18,5 @@ To Sign the _App Makers Privacy Pledge_ fork this repo and add the following lin
   <li>Your Name (<a href="https://twitter.com/your_twitter">@your_twitter</a>)</li>
 ```
 
-Commit and open a pull request.
+Commit and open a pull request. Once you've forked the file, you don't need to download it to your computer. You can edit the file directly from the browser, commit it and raise a pull request.
 
