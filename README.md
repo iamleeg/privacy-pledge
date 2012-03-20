@@ -1,4 +1,4 @@
-## App Makers Privacy Pledge
+## App Makers' Privacy Pledge
 
 We, the app makers who have signed our names to this pledge, value a long term relationship with customers who trust us over selling those same customers out to other companies for short term gains. We know the work that goes into making a magical experience in our apps, and we refuse to ruin our work and our customers' experience by causing people to worry over what is happening to their data. We value a world where our customers are in control of what they put into - and get out of - our apps, and trust us to enable and support that control. Therefore we resolve:</p>
 
