@@ -12,10 +12,10 @@ In short, our apps - not our customers - are our products.
 
 ## Signing The Pledge
 
-To Sign the _App Makers Privacy Pledge_ fork this repo and add the following line:
+To Sign the _App Makers Privacy Pledge_ fork this repo and add the following line to index.html:
 
 ```html
-  <li>Your Name (<a href="http://twitter.com/your_twitter">@your_twitter</a>)</li>
+  <li>Your Name (<a href="https://twitter.com/your_twitter">@your_twitter</a>)</li>
 ```
 
 Commit and open a pull request.
